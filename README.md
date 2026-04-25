@@ -102,6 +102,9 @@ This project was created as a beginner-friendly React application to understand:
 * Event handling
 
 ---
+## Result 
+<img width="797" height="487" alt="image" src="https://github.com/user-attachments/assets/9e77fb9a-ac4f-4b42-a83f-32330aea91a3" />
+
 
 ## 🙋‍♀️ Author
 
